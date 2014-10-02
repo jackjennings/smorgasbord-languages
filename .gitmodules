@@ -1,0 +1,3 @@
+[submodule "extensis-lang"]
+	path = extensis-lang
+	url = https://github.com/Extensis/lang
